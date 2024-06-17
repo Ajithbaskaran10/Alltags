@@ -58,7 +58,7 @@ body{
     background-position: center;
     background-size: cover;
 }
-    */
+    
 body{
     margin: 0px;
 }
@@ -67,10 +67,11 @@ body{
     width: 200px;
     height: 200px;
     font-size: 18px;
-    color: white;
-    background-color: greenyellow;
-    margin-left: auto;
-    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 10px;
+background-color: chocolate;
+margin-left: 20px;
+padding: 20px;
 
 }
 #box2{
@@ -81,4 +82,18 @@ body{
     background-color: greenyellow;
     margin-left: auto;
     margin-right: auto;
+}
+*/
+.box{
+    border: 1px solid;
+    width: 90px;
+    height: 40px;
+    text-align: center;
+    background: yellowgreen;
+    float: left;
+    align-items: center;
+    padding: 20px;
+}
+p{
+    clear: both;
 }
