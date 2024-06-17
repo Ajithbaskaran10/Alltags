@@ -51,3 +51,10 @@ h2:hover{
 .new:hover{
     background: linear-gradient(to left,rgb(255, 165, 0),whitesmoke,blue);
 }
+body{
+    background-image: url("money.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
