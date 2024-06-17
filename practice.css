@@ -1,0 +1,53 @@
+/*
+h2{
+    text-decoration: dotted underline;
+}
+.odd{
+    background-color:hotpink;
+    color:whitesmoke;
+    font-family: "consolas",sans-serif;
+    font-size: 20px;
+    border-style: inset;
+}
+.even{
+    background-color: aqua;
+    color: darkred;
+    font-family:nanum bursh script;
+    font-size: 20px;
+    border-style: inset;
+    border-radius: 20px;
+}
+#name{
+    border-top-style: double;
+    border-bottom-style: groove;
+    border-left-style:inset;
+    border-right-style: ridge;
+    border-top-color: yellow;
+    border-bottom-color: green;
+    border-left-color: brown;
+    border-right-color: tomato;
+    border-left-width: 5px;
+    border-radius: 10px;
+    border-top-left-radius: 25px;
+    border-bottom-style: dotted;
+}
+.world{
+    background: linear-gradient(to right,rgb(24, 235, 42),orange);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    border: 1px solid;
+}
+*/
+h2{
+    text-align: center;
+    background: linear-gradient(to right,white,lightgreen,rgba(255, 0, 234, 0.575));
+}
+h2:hover{
+    background: linear-gradient(to left,white,lightgreen,rgba(255,0,234,0.575));
+}
+.new{
+    background: linear-gradient(to right,rgb(255, 165, 0),whitesmoke,blue);
+}
+.new:hover{
+    background: linear-gradient(to left,rgb(255, 165, 0),whitesmoke,blue);
+}
